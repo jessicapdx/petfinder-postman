@@ -1,0 +1,344 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "animals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "number"
+          },
+          "organization_id": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "species": {
+            "type": "string"
+          },
+          "breeds": {
+            "type": "object",
+            "properties": {
+              "primary": {
+                "type": "string"
+              },
+              "secondary": {
+                "type": [
+                  "null",
+                  "string"
+                ]
+              },
+              "mixed": {
+                "type": "boolean"
+              },
+              "unknown": {
+                "type": "boolean"
+              }
+            }
+          },
+          "colors": {
+            "type": "object",
+            "properties": {
+              "primary": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "secondary": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "tertiary": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            }
+          },
+          "age": {
+            "type": "string"
+          },
+          "gender": {
+            "type": "string"
+          },
+          "size": {
+            "type": "string"
+          },
+          "coat": {
+            "type": "string"
+          },
+          "attributes": {
+            "type": "object",
+            "properties": {
+              "spayed_neutered": {
+                "type": "boolean"
+              },
+              "house_trained": {
+                "type": "boolean"
+              },
+              "declawed": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
+              "special_needs": {
+                "type": "boolean"
+              },
+              "shots_current": {
+                "type": "boolean"
+              }
+            }
+          },
+          "environment": {
+            "type": "object",
+            "properties": {
+              "children": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
+              "dogs": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              },
+              "cats": {
+                "type": [
+                  "boolean",
+                  "null"
+                ]
+              }
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "name": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "organization_animal_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "photos": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "small": {
+                  "type": "string"
+                },
+                "medium": {
+                  "type": "string"
+                },
+                "large": {
+                  "type": "string"
+                },
+                "full": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "small",
+                "medium",
+                "large",
+                "full"
+              ]
+            }
+          },
+          "primary_photo_cropped": {
+            "type": "object",
+            "properties": {
+              "small": {
+                "type": "string"
+              },
+              "medium": {
+                "type": "string"
+              },
+              "large": {
+                "type": "string"
+              },
+              "full": {
+                "type": "string"
+              }
+            }
+          },
+          "videos": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "embed": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "status": {
+            "type": "string"
+          },
+          "status_changed_at": {
+            "type": "string"
+          },
+          "published_at": {
+            "type": "string"
+          },
+          "distance": {
+            "type": "null"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "email": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "phone": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "address": {
+                "type": "object",
+                "properties": {
+                  "address1": {
+                    "type": [
+                      "null",
+                      "string"
+                    ]
+                  },
+                  "address2": {
+                    "type": "null"
+                  },
+                  "city": {
+                    "type": "string"
+                  },
+                  "state": {
+                    "type": "string"
+                  },
+                  "postcode": {
+                    "type": "string"
+                  },
+                  "country": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          },
+          "_links": {
+            "type": "object",
+            "properties": {
+              "self": {
+                "type": "object",
+                "properties": {
+                  "href": {
+                    "type": "string"
+                  }
+                }
+              },
+              "type": {
+                "type": "object",
+                "properties": {
+                  "href": {
+                    "type": "string"
+                  }
+                }
+              },
+              "organization": {
+                "type": "object",
+                "properties": {
+                  "href": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "required": [
+          "id",
+          "organization_id",
+          "url",
+          "type",
+          "species",
+          "breeds",
+          "colors",
+          "age",
+          "gender",
+          "size",
+          "coat",
+          "attributes",
+          "environment",
+          "tags",
+          "name",
+          "description",
+          "organization_animal_id",
+          "photos",
+          "primary_photo_cropped",
+          "videos",
+          "status",
+          "status_changed_at",
+          "published_at",
+          "distance",
+          "contact",
+          "_links"
+        ]
+      }
+    },
+    "pagination": {
+      "type": "object",
+      "properties": {
+        "count_per_page": {
+          "type": "number"
+        },
+        "total_count": {
+          "type": "number"
+        },
+        "current_page": {
+          "type": "number"
+        },
+        "total_pages": {
+          "type": "number"
+        },
+        "_links": {
+          "type": "object",
+          "properties": {
+            "next": {
+              "type": "object",
+              "properties": {
+                "href": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1783 @@
+{
+  "animals": [
+    {
+      "id": 66655833,
+      "organization_id": "MI153",
+      "url": "https://www.petfinder.com/cat/rascal-66655833/mi/harrison/save-animals-from-euthanasia-s-dot-af-dot-e-mi153/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Orange / Red)",
+        "secondary": "White",
+        "tertiary": "Tabby (Buff / Tan / Fawn)"
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": ["Friendly", "Affectionate", "Gentle", "Playful"],
+      "name": "RASCAL ",
+      "description": "Foster home has two small dogs but if bigger than that are non-aggressive, they should be fine.",
+      "organization_animal_id": "KUSTRA 2",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/2/?bust=1693200118&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/2/?bust=1693200118&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/2/?bust=1693200118&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/2/?bust=1693200118"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/3/?bust=1693200119&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/3/?bust=1693200119&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/3/?bust=1693200119&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/3/?bust=1693200119"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/4/?bust=1693200119&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/4/?bust=1693200119&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/4/?bust=1693200119&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/4/?bust=1693200119"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655833/1/?bust=1693200117"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:22:02+0000",
+      "published_at": "2023-08-28T05:22:01+0000",
+      "distance": null,
+      "contact": {
+        "email": "safedogrescue@sbcglobal.net",
+        "phone": "989-430-9266",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Harrison",
+          "state": "MI",
+          "postcode": "48625",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655833"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/mi153"
+        }
+      }
+    },
+    {
+      "id": 66655832,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/pop-66655832/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Pop",
+      "description": "Pop is a male Domestic Shorthair kitten with a brown tabby coat. He was found in Dublin and brought to...",
+      "organization_animal_id": "78531",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:21:56+0000",
+      "published_at": "2023-08-28T05:21:55+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655832"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655830,
+      "organization_id": "ON700",
+      "url": "https://www.petfinder.com/dog/lacy-66655830/on/newmarket/dont-furry-be-happy-animal-rescue-on700/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "German Shepherd Dog",
+        "secondary": "Siberian Husky",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Playful",
+        "Funny",
+        "Affectionate",
+        "Loves kisses",
+        "Loyal",
+        "Curious",
+        "Smart"
+      ],
+      "name": "Lacy",
+      "description": "Meet beautiful Lacy! \n\nFemale / 6 months / spayed / vaccinated / shepherd x husky / 25 lbs \n\nMedium size...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/2/?bust=1693199990&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/2/?bust=1693199990&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/2/?bust=1693199990&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/2/?bust=1693199990"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/3/?bust=1693199990&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/3/?bust=1693199990&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/3/?bust=1693199990&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/3/?bust=1693199990"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/4/?bust=1693199991&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/4/?bust=1693199991&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/4/?bust=1693199991&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/4/?bust=1693199991"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/5/?bust=1693199991&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/5/?bust=1693199991&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/5/?bust=1693199991&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/5/?bust=1693199991"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/6/?bust=1693199992&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/6/?bust=1693199992&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/6/?bust=1693199992&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/6/?bust=1693199992"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655830/1/?bust=1693199989"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:20:05+0000",
+      "published_at": "2023-08-28T05:20:04+0000",
+      "distance": null,
+      "contact": {
+        "email": "dontfurrybehappy@gmail.com",
+        "phone": "(416) 278-6989",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Newmarket",
+          "state": "ON",
+          "postcode": "L3X 2X5",
+          "country": "CA"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655830"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/on700"
+        }
+      }
+    },
+    {
+      "id": 66655831,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/strudel-66655831/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Strudel",
+      "description": "Strudel is a female Domestic Shorthair kitten with a brown tabby coat. She was found in Dublin and brought to...",
+      "organization_animal_id": "78532",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:19:58+0000",
+      "published_at": "2023-08-28T05:19:57+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655831"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655829,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/toaster-66655829/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Toaster",
+      "description": "Toaster is a female Domestic Shorthair kitten with a black coat. She was found in Dublin and brought to the...",
+      "organization_animal_id": "78534",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:18:38+0000",
+      "published_at": "2023-08-28T05:18:37+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655829"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655828,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/dot-66655828/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Dot",
+      "description": "Dot is a female Domestic Shorthair kitten with a black coat and a white spot on her chest. She was...",
+      "organization_animal_id": "78495",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:15:42+0000",
+      "published_at": "2023-08-28T05:15:41+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655828"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655827,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/spot-66655827/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Spot",
+      "description": "Spot is a female Domestic Shorthair kitten with a tortoiseshell coat. She was found in Livermore and brought to the...",
+      "organization_animal_id": "78494",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:14:23+0000",
+      "published_at": "2023-08-28T05:14:22+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655827"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655826,
+      "organization_id": "ON700",
+      "url": "https://www.petfinder.com/cat/twinkle-toes-66655826/on/newmarket/dont-furry-be-happy-animal-rescue-on700/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tortoiseshell",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tortoiseshell",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Long",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": ["Playful", "Funny"],
+      "name": "Twinkle Toes",
+      "description": "Twinkle Toes is a sweet 6-7 week old kitten who is a tortie &amp; likely mixed with persian! \n\nShe’s so...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/2/?bust=1693199644&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/2/?bust=1693199644&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/2/?bust=1693199644&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/2/?bust=1693199644"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/3/?bust=1693199645&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/3/?bust=1693199645&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/3/?bust=1693199645&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/3/?bust=1693199645"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/4/?bust=1693199647&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/4/?bust=1693199647&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/4/?bust=1693199647&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/4/?bust=1693199647"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/5/?bust=1693199648&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/5/?bust=1693199648&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/5/?bust=1693199648&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/5/?bust=1693199648"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655826/1/?bust=1693199643"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:14:10+0000",
+      "published_at": "2023-08-28T05:14:09+0000",
+      "distance": null,
+      "contact": {
+        "email": "dontfurrybehappy@gmail.com",
+        "phone": "(416) 278-6989",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Newmarket",
+          "state": "ON",
+          "postcode": "L3X 2X5",
+          "country": "CA"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655826"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/on700"
+        }
+      }
+    },
+    {
+      "id": 66655825,
+      "organization_id": "FL1865",
+      "url": "https://www.petfinder.com/cat/astro-66655825/fl/palm-bay/cat-whispurrer-fl1865/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Gentle",
+        "Playful",
+        "Curious",
+        "Funny"
+      ],
+      "name": "Astro",
+      "description": "Astro is a playful, purring boy who is looking for his forever home! Perhaps you want to adopt Astro with...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655825/1/?bust=1693199578"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:13:01+0000",
+      "published_at": "2023-08-28T05:13:00+0000",
+      "distance": null,
+      "contact": {
+        "email": "mleslie00@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Palm Bay",
+          "state": "FL",
+          "postcode": "32905",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655825"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/fl1865"
+        }
+      }
+    },
+    {
+      "id": 66655824,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/cichlid-66655824/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Cichlid",
+      "description": "Cichlid is a female Domestic Shorthair kitten with a brown tabby coat. She was found in Dublin and brought to...",
+      "organization_animal_id": null,
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:11:48+0000",
+      "published_at": "2023-08-28T05:11:47+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655824"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655823,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/handsome-66655823/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Brown / Chocolate)",
+        "secondary": "White",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Handsome",
+      "description": "Handsome is a male Domestic Medium Hair cat with a fluffy brown tabby and white coat. He was found in...",
+      "organization_animal_id": "78454",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:08:28+0000",
+      "published_at": "2023-08-28T05:08:27+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655823"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655820,
+      "organization_id": "CA1669",
+      "url": "https://www.petfinder.com/cat/bonito-66655820/ca/dublin/east-county-animal-shelter-ca1669/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Bonito",
+      "description": "Bonito is a male Domestic Shorthair kitten with a black and white tuxedo coat. He was found in Livermore, and...",
+      "organization_animal_id": "78094",
+      "photos": [],
+      "primary_photo_cropped": null,
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:07:43+0000",
+      "published_at": "2023-08-28T05:07:42+0000",
+      "distance": null,
+      "contact": {
+        "email": null,
+        "phone": "(925) 803-7040",
+        "address": {
+          "address1": "4595 Gleason Drive",
+          "address2": null,
+          "city": "Dublin",
+          "state": "CA",
+          "postcode": "94568",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655820"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1669"
+        }
+      }
+    },
+    {
+      "id": 66655822,
+      "organization_id": "WA693",
+      "url": "https://www.petfinder.com/cat/cody-66655822/wa/bonney-lake/animal-rescue-friends-society-of-grant-county-wa693/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Independent",
+        "Athletic",
+        "Funny",
+        "Dignified",
+        "Loves kisses",
+        "Quiet"
+      ],
+      "name": "Cody",
+      "description": "My name is Cody… I’m the shy one of the bunch But I’m really coming out of my shell. My...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/2/?bust=1693199214&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/2/?bust=1693199214&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/2/?bust=1693199214&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/2/?bust=1693199214"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655822/1/?bust=1693199214"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:06:57+0000",
+      "published_at": "2023-08-28T05:06:56+0000",
+      "distance": null,
+      "contact": {
+        "email": "bonnie.helvey@arfsgc.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Bonney Lake",
+          "state": "WA",
+          "postcode": "98391",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655822"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/wa693"
+        }
+      }
+    },
+    {
+      "id": 66655821,
+      "organization_id": "SC574",
+      "url": "https://www.petfinder.com/dog/belen-66655821/tn/memphis/arcadia-animal-rescue-sc574/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "American Staffordshire Terrier",
+        "secondary": "Mixed Breed",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Golden",
+        "secondary": "Black",
+        "tertiary": "White / Cream"
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Large",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": false
+      },
+      "tags": [
+        "Gentle",
+        "Friendly",
+        "Affectionate",
+        "Quiet",
+        "Curious",
+        "Dignified",
+        "Smart"
+      ],
+      "name": "Belen",
+      "description": "URGENT - Adopter Needed ASAP!!\n\nSuper handsome Belen is quite the looker!\n\nHe suddenly found himself at a high kill...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/2/?bust=1693199197&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/2/?bust=1693199197&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/2/?bust=1693199197&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/2/?bust=1693199197"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/3/?bust=1693199197&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/3/?bust=1693199197&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/3/?bust=1693199197&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/3/?bust=1693199197"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/4/?bust=1693199198&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/4/?bust=1693199198&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/4/?bust=1693199198&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/4/?bust=1693199198"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/5/?bust=1693199198&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/5/?bust=1693199198&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/5/?bust=1693199198&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/5/?bust=1693199198"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655821/1/?bust=1693199196"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:06:41+0000",
+      "published_at": "2023-08-28T05:06:40+0000",
+      "distance": null,
+      "contact": {
+        "email": "juliepow@gmail.com",
+        "phone": "(919) 624 0059",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Memphis",
+          "state": "TN",
+          "postcode": "38138",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655821"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/sc574"
+        }
+      }
+    },
+    {
+      "id": 66655819,
+      "organization_id": "CA1446",
+      "url": "https://www.petfinder.com/dog/bash-66655819/ca/rancho-palos-verdes/whiskers-and-tails-foundation-ca1446/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Terrier",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": ["Friendly", "Playful", "Affectionate"],
+      "name": "Bash",
+      "description": "Meet Bash!  He’s one of the cutest little guys we’ve ever seen!!  Bash is a terrier mix weighing 4# and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/2/?bust=1693199095&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/2/?bust=1693199095&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/2/?bust=1693199095&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/2/?bust=1693199095"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/3/?bust=1693199095&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/3/?bust=1693199095&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/3/?bust=1693199095&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/3/?bust=1693199095"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/4/?bust=1693199096&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/4/?bust=1693199096&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/4/?bust=1693199096&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/4/?bust=1693199096"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/5/?bust=1693199096&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/5/?bust=1693199096&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/5/?bust=1693199096&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/5/?bust=1693199096"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655819/1/?bust=1693199094"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:04:58+0000",
+      "published_at": "2023-08-28T05:04:57+0000",
+      "distance": null,
+      "contact": {
+        "email": "amano@whiskerstails.org",
+        "phone": "(310) 755-5796",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Rancho Palos Verdes",
+          "state": "CA",
+          "postcode": "90275",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655819"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca1446"
+        }
+      }
+    },
+    {
+      "id": 66655817,
+      "organization_id": "CA690",
+      "url": "https://www.petfinder.com/cat/elle-66655817/ca/san-carlos/homeless-cat-network-ca690/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": null,
+        "cats": true
+      },
+      "tags": [
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Independent",
+        "Athletic",
+        "Quiet",
+        "Friendly",
+        "Loves Kisses"
+      ],
+      "name": "Elle",
+      "description": "Elle is a maker! She makes muffins when you pet her; she makes friends with every kitty she meets; and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/1/?bust=1693199124&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/1/?bust=1693199124&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/1/?bust=1693199124&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/1/?bust=1693199124"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/3/?bust=1693199127&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/3/?bust=1693199127&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/3/?bust=1693199127&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/3/?bust=1693199127"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655817/2/?bust=1693199123"
+      },
+      "videos": [
+        {
+          "embed": "<iframe title=\"Video\" src=\"https://www.youtube.com/embed/5vNdBprQjbE?enablejsapi=1\" frameborder=\"0\" allowfullscreen></iframe>"
+        }
+      ],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:03:44+0000",
+      "published_at": "2023-08-28T05:03:39+0000",
+      "distance": null,
+      "contact": {
+        "email": "info@homelesscatnetwork.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "San Carlos",
+          "state": "CA",
+          "postcode": "94070",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655817"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca690"
+        }
+      }
+    },
+    {
+      "id": 66655816,
+      "organization_id": "OR123",
+      "url": "https://www.petfinder.com/dog/hero-66655816/or/portland/oregon-dachshund-rescue-inc-or123/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Dachshund",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": null,
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": null,
+        "dogs": true,
+        "cats": false
+      },
+      "tags": [],
+      "name": "Hero",
+      "description": "***PLEASE READ ENTIRE BIO &amp; ADOPTION CRITERIA BEFORE CONTACTING ODR OR APPLYING FOR ADOPTION, THANKS!***\n\n\nMEET Hero -\n\nJust saved...",
+      "organization_animal_id": "1928",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/1/?bust=1693198813&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/1/?bust=1693198813&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/1/?bust=1693198813&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/1/?bust=1693198813"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/2/?bust=1693198814&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/2/?bust=1693198814&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/2/?bust=1693198814&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/2/?bust=1693198814"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/3/?bust=1693198815&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/3/?bust=1693198815&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/3/?bust=1693198815&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/3/?bust=1693198815"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/5/?bust=1693198816&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/5/?bust=1693198816&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/5/?bust=1693198816&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/5/?bust=1693198816"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/6/?bust=1693198817&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/6/?bust=1693198817&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/6/?bust=1693198817&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/6/?bust=1693198817"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655816/4/?bust=1693198815"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T05:00:19+0000",
+      "published_at": "2023-08-28T05:00:18+0000",
+      "distance": null,
+      "contact": {
+        "email": "jrangan@comcast.net",
+        "phone": "(503) 313-3220",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Portland",
+          "state": "OR",
+          "postcode": "97282",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655816"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/or123"
+        }
+      }
+    },
+    {
+      "id": 66655815,
+      "organization_id": "NY1518",
+      "url": "https://www.petfinder.com/dog/mikey-66655815/ny/new-york/miracles-for-satos-rescue-ny1518/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray / Blue / Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Loyal",
+        "Gentle",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Funny",
+        "Loves kisses",
+        "Loves dogs",
+        "Great with kids"
+      ],
+      "name": "MIKEY",
+      "description": "Meet MIKEY! He is such a handsome boy! Cuteness overload and all eyes for you!! Your heart will melt!! He...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/1/?bust=1693198776&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/1/?bust=1693198776&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/1/?bust=1693198776&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/1/?bust=1693198776"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655815/2/?bust=1693198777"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T04:59:51+0000",
+      "published_at": "2023-08-28T04:59:50+0000",
+      "distance": null,
+      "contact": {
+        "email": "miraclesforsatosrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "New York",
+          "state": "NY",
+          "postcode": "10025",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655815"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/ny1518"
+        }
+      }
+    },
+    {
+      "id": 66655807,
+      "organization_id": "CA2637",
+      "url": "https://www.petfinder.com/cat/van-dyke-66655807/ca/palo-cedro/s-dot-na-dot-p-spay-neuter-and-protect-ca2637/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Chartreux",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray & White",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": true
+      },
+      "tags": [
+        "Friendly",
+        "Affectionate",
+        "Playful",
+        "Smart",
+        "Curious",
+        "Funny",
+        "Athletic"
+      ],
+      "name": "Van Dyke",
+      "description": "Van Dyke is a rambunctious and curious purr box of a kitten.  Found motherless beneath a vacant house, she and...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/1/?bust=1693198303&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/1/?bust=1693198303&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/1/?bust=1693198303&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/1/?bust=1693198303"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/2/?bust=1693198304&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/2/?bust=1693198304&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/2/?bust=1693198304&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/2/?bust=1693198304"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655807/3/?bust=1693198305"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T04:57:01+0000",
+      "published_at": "2023-08-28T04:57:00+0000",
+      "distance": null,
+      "contact": {
+        "email": "snap.spayneuterandprotect@gmail.com",
+        "phone": "(530) 547-2050",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Palo Cedro",
+          "state": "CA",
+          "postcode": "96073",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655807"
+        },
+        "type": {
+          "href": "/v2/types/cat"
+        },
+        "organization": {
+          "href": "/v2/organizations/ca2637"
+        }
+      }
+    },
+    {
+      "id": 66655814,
+      "organization_id": "NH168",
+      "url": "https://www.petfinder.com/dog/brecie-in-nh-open-house-this-saturday-9-2-from-12-3-66655814/nh/manchester/motley-mutts-rescue-nh168/?referrer_id=25fd363d-0ed7-43b2-8cf3-9d0b602fff32&utm_source=api&utm_medium=partnership&utm_content=25fd363d-0ed7-43b2-8cf3-9d0b602fff32",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": "Beagle",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": {
+        "children": true,
+        "dogs": true,
+        "cats": null
+      },
+      "tags": [],
+      "name": "Brecie in NH! Open House this Saturday 9/2 from 12-3!",
+      "description": "Come meet our adoptable dog from 12-3 on Saturday 9/2 at 114 Londonderry Turnpike in Hooksett NH. Please submit an...",
+      "organization_animal_id": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/2/?bust=1693198544&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/2/?bust=1693198544&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/2/?bust=1693198544&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/2/?bust=1693198544"
+        }
+      ],
+      "primary_photo_cropped": {
+        "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=300",
+        "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=450",
+        "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543&width=600",
+        "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/66655814/1/?bust=1693198543"
+      },
+      "videos": [],
+      "status": "adoptable",
+      "status_changed_at": "2023-08-28T04:55:46+0000",
+      "published_at": "2023-08-28T04:55:45+0000",
+      "distance": null,
+      "contact": {
+        "email": "motleyrescue@gmail.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Manchester",
+          "state": "NH",
+          "postcode": "03102",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "/v2/animals/66655814"
+        },
+        "type": {
+          "href": "/v2/types/dog"
+        },
+        "organization": {
+          "href": "/v2/organizations/nh168"
+        }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 319352,
+    "current_page": 1,
+    "total_pages": 15968,
+    "_links": {
+      "next": {
+        "href": "/v2/animals?page=2"
+      }
+    }
+  }
+}
